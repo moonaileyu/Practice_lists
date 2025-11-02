@@ -1,0 +1,18 @@
+h2
+    {
+        text-align: center;
+        color: green;
+    }
+
+dt
+    {
+        font-weight: bold;
+        color: red;
+    }
+
+hr
+    {
+        border: none;
+        border-top: 2px solid red;
+        margin-left: 40px;
+    }
